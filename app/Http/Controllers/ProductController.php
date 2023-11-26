@@ -21,7 +21,6 @@ class ProductController extends Controller
             'price' => 4.5,
             'quantity' => 11,
             'status' => true,
-            // 'created' => '2022-10-20',
             'description' => 'good'
         ];
         $data = [
